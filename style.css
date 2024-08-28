@@ -1,0 +1,16 @@
+:root{
+    --cor-da-fonte:blue;
+    --cor-do-fundo:red;
+    --cor-fonte-cabeçalho:gold;
+    --cor-fundo-cabeçalho:green;
+
+}
+body{
+    color:var(--cor-da-fonte);
+    background-color: var(--cor-do-fundo);
+   
+}
+header{
+color: var(--cor-fonte-cabeçalho);
+background-color: var(--cor-fundo-cabeçalho);
+}
